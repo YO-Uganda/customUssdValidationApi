@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Jose\projects\YoPayUSSDConfig\csharp\SampMerchantUssdValidation\SampMerchantUssdValidation\bin\Debug\SampMerchantUssdValidation.exe.config
+C:\Users\HP\Desktop\Jose\projects\YoPayUSSDConfig\csharp\SampMerchantUssdValidation\SampMerchantUssdValidation\bin\Debug\SampMerchantUssdValidation.exe
+C:\Users\HP\Desktop\Jose\projects\YoPayUSSDConfig\csharp\SampMerchantUssdValidation\SampMerchantUssdValidation\bin\Debug\SampMerchantUssdValidation.pdb
+C:\Users\HP\Desktop\Jose\projects\YoPayUSSDConfig\csharp\SampMerchantUssdValidation\SampMerchantUssdValidation\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\Jose\projects\YoPayUSSDConfig\csharp\SampMerchantUssdValidation\SampMerchantUssdValidation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Jose\projects\YoPayUSSDConfig\csharp\SampMerchantUssdValidation\SampMerchantUssdValidation\obj\Debug\SampMerchantUssdValidation.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Jose\projects\YoPayUSSDConfig\csharp\SampMerchantUssdValidation\SampMerchantUssdValidation\obj\Debug\SampMerchantUssdValidation.exe
+C:\Users\HP\Desktop\Jose\projects\YoPayUSSDConfig\csharp\SampMerchantUssdValidation\SampMerchantUssdValidation\obj\Debug\SampMerchantUssdValidation.pdb
